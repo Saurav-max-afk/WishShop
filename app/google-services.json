@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084141312165",
+    "project_id": "student-management-syste-589cb",
+    "storage_bucket": "student-management-syste-589cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084141312165:android:887d043edb719afc2c154c",
+        "android_client_info": {
+          "package_name": "com.saurav.wishshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084141312165-qe2u6cijndsuaeuj9n8rpbkiedje6ktt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRThldGAjncFbwISsxvUuc7AB6szFFjxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084141312165-qe2u6cijndsuaeuj9n8rpbkiedje6ktt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

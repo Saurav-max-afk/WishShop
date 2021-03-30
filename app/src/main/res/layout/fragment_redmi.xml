@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RedmiFragment"
+    android:background="@color/lightGray">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:hint="Search"
+        android:textSize="22sp"
+        android:focusableInTouchMode="true"
+        android:focusable="true"
+        android:id="@+id/txt_SearchText1"
+        android:paddingLeft="20dp"
+        android:shadowColor="@color/purple_200"
+        android:background="@drawable/custom_edittext"
+
+        android:layout_margin="15dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"/>
+
+
+
+</LinearLayout>
